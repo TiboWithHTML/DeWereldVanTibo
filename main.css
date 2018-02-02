@@ -1,0 +1,54 @@
+BODY { 	background-image: url("http://www.wildtextures.com/wp-content/uploads/wildtextures-seamless-wood-planks-II.jpg"); 
+	background-attachment: scroll; }
+h1   { 	text-align: center;
+	color: #33CC00; 
+	font-size: 80px; 
+   }
+h2   { 	text-align: center;
+	text-decoration: underline;
+	color: #FFFFFF; 
+	font-size: 20px; 
+   }
+h3   { 	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	color: #000000; 
+	background-color: #33CC99; 
+	font-size: 30px; 
+   }
+h4   { 	margin-left: 20px;
+	margin-right: 20px;
+	color: #000000; 
+	font-size: 25px; 
+	background-color: #CC33FF; 
+   }
+p    { 	margin-left: 20px;
+	margin-right: 20px;
+	color: #FFFFFF; 
+	font-size: 20px;
+   }
+d    {	font-size: 20px;
+	margin-right: 20px;
+	text-weigth: bolder;
+	color: #FFFFFF;
+	background-color: #000000; 
+   }
+a    { 	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 20px;
+	color: #33CC00; 
+   }
+img  { 	margin-left: 20px;
+	margin-right: 20px;
+	float: left; 
+   }
+h5   { 	height: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #000000;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration: bold;
+	color: #FFFFFF; 
+	font-size: 20px; 
+   }
